@@ -9,9 +9,7 @@ This is a basic app to track the trades of GME:
 
 Given all the things happening in the stock market I'd like to have my data fast. I am expierimenting with the Alpaca API to get the market data check out the [documents for alpaca market data streaming](https://alpaca.markets/docs/api-documentation/api-v2/market-data/streaming/).
 
-# Purpose
-
-To track GME trades. 
+# Purpose - track GME trades. 
 ![I actually don't like Elon](https://github.com/DevonMartens/Alpaca_Api/blob/main/images/GMEmuskMOon.jpg?raw=true)
 
 
