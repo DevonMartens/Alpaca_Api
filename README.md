@@ -1,2 +1,2 @@
 # Alpaca_Api
-Getting comfortable with Alpaca api
+Given all the things happening in the stock market I'd like to have my data fast. 
