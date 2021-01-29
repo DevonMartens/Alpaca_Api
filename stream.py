@@ -1,6 +1,7 @@
 import config
 import websocket, json
 
+#authenticate using api key and secret key
 def on_open(ws):
     print("opened")
     auth_data = {
